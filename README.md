@@ -10,3 +10,5 @@ Uživatel si může zvolit různé kombinace škol a porovnat pravděpodobnost p
 Pozn. V letošním roce jsem přes Participativní rozpočet města Brna chtěla prosadit opravu parku před naší školou: https://paro.damenavas.cz/projekt/?id=2056
 V rámci toho jsem se snažila cílit propagaci projektu na lidi bydlící trvale ve spádové oblasti školy, takže jsem kombinovala datasety o trvalém pobytu na adrese a spádu jednotlivých škol.
 Projekt neprošel, ale byl nejhlasovanější v celé čtvrti a snad se mi podaří přesvědčit starostu k dílčím úpravám prostoru u školy a školky na základě získaných dat v průběhu hlasování. :)
+
+Na Discordu jsem pod jménem Helena V.
